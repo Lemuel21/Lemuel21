@@ -1,7 +1,6 @@
 # Hi 👋, I'm John Lemuel Tapel
 ## Computer Science student at New Era University
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 ## How to reach me:
 - **johnlemueltapel@gmail.com**
 - **09673319818**
