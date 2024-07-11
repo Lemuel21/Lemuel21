@@ -1,6 +1,6 @@
 # Hi 👋, I'm John Lemuel Tapel
 ## Computer Science student at New Era University
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcomputer-science.html&psig=AOvVaw0WjllvsPgEXzPZmriiFqdg&ust=1720771869445000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLiLyPHEnocDFQAAAAAdAAAAABAE](https://thumbs.dreamstime.com/b/concept-thinking-background-brain-cpu-mind-series-technology-symbols-subject-computer-science-artificial-concept-117062986.jpg)" alt="Banner" width="100%" />
+<img src="https://www.usnews.com/cmsmedia/a7/b4/fc82a15549afac6b47117ceb53b1/161031-stock.jpg" alt="Banner" width="100%" />
 
 
 ## How to reach me:
