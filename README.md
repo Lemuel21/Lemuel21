@@ -12,7 +12,9 @@
   </a>
   
 ## 🎓Education
-- **[Education Details]**
+- - **New Era University - Main Branch**
+  - Bachelor of Science in Computer Science
+  - Years Attended: 2021 - Present
 
 ## 🏅Certificates
 - **[Certificate Details]**
