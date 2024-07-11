@@ -36,7 +36,11 @@
 - [Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiOGMyY2NhNjAtYWEyMC00YjlkLTgyNGEtZjk2OTdkZjM0Mjc1IiwidCI6IjExNTBkZjZiLWYwZjYtNDA0OC1hZDcwLTIwNDlkYWU4MDFiYSIsImMiOjEwfQ%3D%3D)
 
 ### 💻 Software Engineering Design Pattern Repositories
-- **[Repository Details]**
+- [Solid Principle](https://github.com/Lemuel21/Solid_Principle.git)
+- [SingletonPattern](https://github.com/Lemuel21/SingletonPattern.git)
+- [Decorator Pattern](https://github.com/Lemuel21/DecoratorPattern.git)
+- [Builder Pattern](https://github.com/Lemuel21/BuilderPattern.git)
+- [Visitor Pattern](https://github.com/Lemuel21/VisitorPattern.git)
 
 ## Skill Set
 
