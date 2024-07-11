@@ -32,8 +32,8 @@
 
 ## 📊Tech Achievement
 ### 📈 Power BI Projects
-- [Soda Report for the Year 2022](https://app.powerbi.com/groups/me/reports/c076e748-9f61-45aa-829d-524a3530484b/0a1d035670c3d6a55d90?experience=power-bi)
-- 
+- [Soda Report for the Year 2022](https://app.powerbi.com/view?r=eyJrIjoiMzExYWFiMDUtMWVhNy00YTVkLWExMTEtZTAzNzViNzBiNTVjIiwidCI6IjExNTBkZjZiLWYwZjYtNDA0OC1hZDcwLTIwNDlkYWU4MDFiYSIsImMiOjEwfQ%3D%3D)
+- [Snack Report Using Dax](https://app.powerbi.com/view?r=eyJrIjoiOGMyY2NhNjAtYWEyMC00YjlkLTgyNGEtZjk2OTdkZjM0Mjc1IiwidCI6IjExNTBkZjZiLWYwZjYtNDA0OC1hZDcwLTIwNDlkYWU4MDFiYSIsImMiOjEwfQ%3D%3D)
 
 ### 💻 Software Engineering Design Pattern Repositories
 - **[Repository Details]**
