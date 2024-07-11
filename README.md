@@ -1,5 +1,7 @@
 # Hi 👋, I'm John Lemuel Tapel
 ## Computer Science student at New Era University
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fcomputer-science.html&psig=AOvVaw0WjllvsPgEXzPZmriiFqdg&ust=1720771869445000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLiLyPHEnocDFQAAAAAdAAAAABAE" alt="Banner" width="100%" />
+
 
 ## How to reach me:
 - **johnlemueltapel@gmail.com**
