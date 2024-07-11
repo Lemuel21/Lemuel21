@@ -20,6 +20,9 @@
 - [Oracle Cloud Data Management 2022 Foundations Certified Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E12EDDF3F288B8B7590AA565413764D998A98E42CE4E72A31A09A16F7F68E9DC)
 - [Oracle Cloud Infrastructure 2022 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F12A9F1D29D7CBD998356E187170074389A838E0F738D17B91D0040A095BB003)
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f6b628da36ad4cc88754fef3e13d0cf3)
+- [Data Analytics Essentials](https://www.credly.com/badges/a4428427-ee18-4712-9845-84dfbcb96e72/public_url)
+- [Business Analytics with excel](https://www.simplilearn.com/learn-business-analytics-excel-fundamentals-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
+- 
 
 ## Webinar and Seminars Attended:
 - **[Webinar and Seminar Details]**
