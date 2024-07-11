@@ -2,10 +2,11 @@
 ## Computer Science student at New Era University
 
 ## How to reach me:
-- **[Contact Information]**
+- **johnlemueltapel@gmail.com**
+- **09673319818**
 
 ## Connect with me:
-- **[Social Media Links]**
+- **https://www.facebook.com/lemuel.tapel**
 
 ## 🎓Education
 - **[Education Details]**
