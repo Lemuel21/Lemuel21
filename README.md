@@ -22,10 +22,11 @@
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/f6b628da36ad4cc88754fef3e13d0cf3)
 - [Data Analytics Essentials](https://www.credly.com/badges/a4428427-ee18-4712-9845-84dfbcb96e72/public_url)
 - [Business Analytics with excel](https://www.simplilearn.com/learn-business-analytics-excel-fundamentals-skillup?utm_source=shared-certificate&utm_medium=shared-course&utm_campaign=shared-certificate-course-promotion)
-- 
+  
 
-## Webinar and Seminars Attended:
-- **[Webinar and Seminar Details]**
+## Accomplishment:
+- ** Tech 101: Basic Written Communication**
+- **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 (𝐈𝐓) 𝐖𝐞𝐛𝐢𝐧𝐚𝐫𝐬 𝐒𝐞𝐫𝐢𝐞𝐬** 
 
 ## 📊Tech Achievement
 ### 📈 Power BI Projects
