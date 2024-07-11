@@ -43,6 +43,8 @@
 - [Visitor Pattern](https://github.com/Lemuel21/VisitorPattern.git)
 
 ## Skill Set
+
+### Data Visualization Tools
 <p align="left"> 
   <a href="https://powerbi.microsoft.com/en-us/desktop/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" width="40" height="40"/> 
@@ -51,9 +53,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau Public" width="40" height="40"/> 
   </a> 
 </p>
-
-### Data Visualization Tools
-- **[Tool Details]**
 
 ### Programming Languages
 - **[Programming Language Details]**
