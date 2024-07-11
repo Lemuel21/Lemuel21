@@ -17,7 +17,9 @@
   - Years Attended: 2021 - Present
 
 ## 🏅Certificates
-- **[Certificate Details]**
+- **https://catalog-education.oracle.com/pls/certview/sharebadge?id=E12EDDF3F288B8B7590AA565413764D998A98E42CE4E72A31A09A16F7F68E9DC**
+- **https://catalog-education.oracle.com/pls/certview/sharebadge?id=F12A9F1D29D7CBD998356E187170074389A838E0F738D17B91D0040A095BB003**
+- **https://courses.cognitiveclass.ai/certificates/f6b628da36ad4cc88754fef3e13d0cf3**
 
 ## Webinar and Seminars Attended:
 - **[Webinar and Seminar Details]**
