@@ -25,7 +25,7 @@
   
 
 ## Accomplishment:
--  **Tech 101: Basic Written Communication**
+-  ****Tech 101: Basic Written Communication****
 - **𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 (𝐈𝐓) 𝐖𝐞𝐛𝐢𝐧𝐚𝐫𝐬 𝐒𝐞𝐫𝐢𝐞𝐬** 
 
 ## 📊Tech Achievement
