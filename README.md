@@ -27,10 +27,13 @@
 ## Accomplishment:
 -  **Tech 101: Basic Written Communication**
 - 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 (𝐈𝐓) 𝐖𝐞𝐛𝐢𝐧𝐚𝐫𝐬 𝐒𝐞𝐫𝐢𝐞𝐬
+-  **Introduction to Data Visualization**
+- **Programming Process and Development in IT Industry**
 
 ## 📊Tech Achievement
 ### 📈 Power BI Projects
-- **[Power BI Project Details]**
+- [Soda Report for the Year 2022](<iframe title="Tapel" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzExYWFiMDUtMWVhNy00YTVkLWExMTEtZTAzNzViNzBiNTVjIiwidCI6IjExNTBkZjZiLWYwZjYtNDA0OC1hZDcwLTIwNDlkYWU4MDFiYSIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>)
+- 
 
 ### 💻 Software Engineering Design Pattern Repositories
 - **[Repository Details]**
